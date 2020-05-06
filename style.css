@@ -1,0 +1,132 @@
+h2 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.bubble-circle{
+	background-color: blue;
+	border:1px solid blue;
+	border-radius: 50%;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}
+.image{
+	border:7px solid #717D7E;
+	border-radius: 13em 13em;
+	width:8.5em;
+	height: 8.5em;
+	margin: 0 auto;
+}
+.about{
+	text-decoration: underline;
+}
+.direction{
+	background-color: #CCD1D1;
+	border:1px solid #CCD1D1;
+	border-radius: 50%;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	padding-top: 6.5px;
+	font-weight: bold;
+}
+.post{
+	
+	background-color: #CCD1D1;
+	border:1px solid #CCD1D1;
+	border-radius: 0.5em;
+	width: 9.5em;
+	height: 4.5em;
+	padding-top: 1.2em;
+	margin: 0 auto;	
+}
+
+.link{
+	font-size: 10px;
+}
+
+div.post .link a{
+	padding-left: 30px;
+	color: black; 
+}
+div.post .collection{
+	padding-left: 10px;
+}
+div.post .posts{
+	padding-right: 19px;
+}
+div.post .library{
+	padding-right: 11px;
+}
+div.post .channel{
+	padding-right: 5px;
+}
+.arrow-img{
+	background-color: #717D7E;
+	border:1px solid #717D7E;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	left: 40px;
+	text-align: center;
+	padding-top: 1px;
+}
+.icon{
+	margin: 0 auto;
+}
+.bubble-icon{
+	color: white;
+	background-color: blue;
+	border:1px solid blue;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	margin: 7px;
+}
+.bubble-video{
+	background-color: red;
+	border:1px solid red;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	margin: 7px;
+}
+.bubble-share{
+	background-color: green;
+	border:1px solid green;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	margin: 7px;
+}
+.bubble{
+	background-color: #CCD1D1;
+	border:1px solid #CCD1D1;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}
+.bubble-share img{
+	padding-right: 3px;
+}
+.icon .bubble-video .fa-play,
+.icon .bubble-video .fa-share-alt{
+	font-size: 8px;
+}
+.icon .bubble-video .fa-share-alt {
+	margin-top: 2em;
+}
+.developer-name{
+	font-size: 10px;
+}
